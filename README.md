@@ -20,5 +20,5 @@ and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/project>. ​
 Abdulrahman Alghamdi (PGT)
 ​
-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
+
 
